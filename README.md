@@ -43,5 +43,5 @@ with short commutes (0-1 miles) as they represent the
 highest conversion segment.
 
 ## 📸 Dashboard Preview
-![Bike Sales Dashboard](dashboard.png)
+![Bike Sales Dashboard](Dashboard.png)
 
